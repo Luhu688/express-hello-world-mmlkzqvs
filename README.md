@@ -34,3 +34,7 @@ Render 会自动从你的 GitHub 仓库拉取代码，执行构建并部署。
 Render 的免费版提供有限的资源，适合轻量级的后端服务。
 每个服务有月度时限，如果长期运行，可以考虑升级为付费计划。
 这样，你的免费后端服务就成功部署在 Render 上了！
+
+
+指导说明👇
+https://blog.csdn.net/shaoyezhangliwei/article/details/146191600
